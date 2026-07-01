@@ -9,7 +9,7 @@
 
 |            left image : LineBot               |           right image : defensed contents               |
 | :---------------------------------------: | :---------------------------------------: |
-| <img src="healthHelper1.jpg" width="400" /> | <img src="healthHelper2.jpg" width="400" /> |
+| <img src="healthBot1.jpg" width="400" /> | <img src="healthBot2.jpg" width="400" /> |
 
 `HealthBuddy` is an intelligent medical education AI assistant. This project adopts a **Retrieval-Augmented Generation (RAG)** architecture and seamlessly integrates with a LINE Bot, allowing the public to receive accurate, real-time, and **evidence-based** medical information anytime, anywhere via their messaging app.
 
@@ -61,7 +61,7 @@ This project demonstrates practical problem-solving skills and architectural vis
 
 |            左圖 : LineBot             |       右圖 : 防禦性回答       |
 | :-----------------------------------------: | :-----------------------------------------: |
-| <img src="healthHelper1.jpg" width="400" /> | <img src="healthHelper2.jpg" width="400" /> |
+| <img src="healthBot1.jpg" width="400" /> | <img src="healthBot2.jpg" width="400" /> |
 
 
 
